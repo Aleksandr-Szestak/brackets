@@ -1,5 +1,4 @@
 module.exports = function check(str, bracketsConfig) {
-  // your solution
   let i, symb, tSymb;
   let arrPureStr=[], sumo=0;
 
